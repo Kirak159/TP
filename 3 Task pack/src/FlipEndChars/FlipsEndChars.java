@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FlipsEndChars {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 
 		String line;
 		@SuppressWarnings("resource")
